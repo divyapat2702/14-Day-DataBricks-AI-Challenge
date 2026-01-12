@@ -9,12 +9,13 @@ Databricks 14 Days AI Challenge to build strong foundation Databricks through da
 - Understand Databricks concepts and workflows
 - Community-driven learning and sharing in Socials
 
+  ### Data Set Used - e-commerce dataset from Kaggle
+  - [Kaggle Dataset Page](https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store)
+  - Dataset provided by [REES46 Open CDP](https://rees46.com/en/open-cdp)
+  
+
 ### 𝗣𝗵𝗮𝘀𝗲 𝟮 : Project Phase (24th Jan – 30th Jan) By [**Codebasics**](https://www.linkedin.com/company/codebasics/)
 
 - 7 days of project work with Problem Statement
 - Apply what Learned
 
-  ### Data Set Used - e-commerce dataset from Kaggle
-  - [Kaggle Dataset Page](https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store)
-  - Dataset provided by [REES46 Open CDP](https://rees46.com/en/open-cdp)
-  
