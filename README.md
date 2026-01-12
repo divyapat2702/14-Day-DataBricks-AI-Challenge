@@ -13,3 +13,8 @@ Databricks 14 Days AI Challenge to build strong foundation Databricks through da
 
 - 7 days of project work with Problem Statement
 - Apply what Learned
+
+  ### Data Set Used - e-commerce dataset from Kaggle
+  - [Kaggle Dataset Page](https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store)
+  - Dataset provided by [REES46 Open CDP](https://rees46.com/en/open-cdp)
+  
